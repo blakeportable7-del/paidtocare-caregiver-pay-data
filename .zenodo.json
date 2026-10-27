@@ -1,0 +1,45 @@
+{
+  "upload_type": "dataset",
+  "title": "Family Caregiver Pay by U.S. State, 2026 (PaidToCare)",
+  "description": "<p>This dataset covers which U.S. states and the District of Columbia pay family members to provide care through Medicaid, VA or state programs, whether an adult child or a spouse can be the paid caregiver, the program to ask about, the intake phone number and, where an official page publishes one, the pay rate.</p><p>Each row was checked individually against official sources only, and every fact carries its official source and the date it was checked. Where an official page does not state something, the dataset says so rather than guessing. Rules change: check the official source in each row before relying on a value.</p><p>Published by PaidToCare (<a href=\"https://paidtocare.org/\">https://paidtocare.org/</a>), an independent public resource run by Willow Creek Group LLC, St. Clairsville, Ohio. The live, maintained version is at <a href=\"https://paidtocare.org/states-that-pay-family-caregivers/\">https://paidtocare.org/states-that-pay-family-caregivers/</a>, <a href=\"https://paidtocare.org/report/family-caregiver-pay-2026/\">https://paidtocare.org/report/family-caregiver-pay-2026/</a>.</p>",
+  "creators": [
+    {
+      "name": "Willow Creek Group LLC"
+    },
+    {
+      "name": "Porterfield, Blake"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "family caregiver",
+    "paid family caregiver",
+    "Medicaid HCBS",
+    "self-direction",
+    "consumer direction",
+    "structured family caregiving",
+    "VA PCAFC",
+    "caregiver pay",
+    "home and community-based services",
+    "United States"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://paidtocare.org/states-that-pay-family-caregivers/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://paidtocare.org/report/family-caregiver-pay-2026/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://paidtocare.org/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ]
+}
