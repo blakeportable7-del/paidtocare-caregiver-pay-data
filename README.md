@@ -10,6 +10,8 @@ Each row was checked individually against official sources only: state Medicaid,
 
 Rules change. Check the official source in each row before relying on a value.
 
+Delaware and Hawaii have no official source URL and read "Not yet confirmed": no official page we found states the rule yet.
+
 ## Files
 
 ### states-that-pay-family-caregivers.csv
